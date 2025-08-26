@@ -8,7 +8,7 @@ h1 {
 }
 
 body {
-    background-color: black;
+ background-color: black;
 }
 
 h2 {
@@ -21,6 +21,37 @@ h2 {
 h4 {
     color: white;
     text-align: center;
-    border-style: dotted
-    ;
+
+}
+
+#prison {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-width: 3px;
+    border-style: groove;
+    width: 150px;
+    height: 25px;
+    padding-left: 25px;
+    margin-bottom: 25px;
+}
+
+button {
+    background-color: red;
+    height: 30px;
+    width: 100px;
+    border-radius: 20%;
+}
+
+#navbar{
+    height: 50px;
+background-color: white;
+}
+#logo{
+    color:red;
+    font-size: 20px;
+    margin-right: 200px;
+
+}
+a{
+    margin-right: 200px;
 }
